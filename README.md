@@ -1,36 +1,20 @@
-# Toolbox Deluxe 🧰✨
+# 🧰 Toolbox Deluxe – Minimal
 
-**Toolbox Deluxe** ist eine vollständig eigenständige, offline-fähige HTML-Datei,  
-mit der du deine eigenen Mini-Tools erstellen, speichern, ausführen und sogar exportieren kannst –  
-inklusive Drag & Drop, HTML-Bausteinen und optionaler GPT-Unterstützung.
+Dies ist eine minimalistische, vollständig offline nutzbare HTML-Toolbox zum Verwalten und Starten eigener Programme, Skripte oder Tools.
 
-## 🌟 Features
+Sie funktioniert komplett im Browser – ohne Internet, ohne Abhängigkeiten – und ist in einer einzigen Datei untergebracht.
 
-- ✅ Tools direkt im Browser schreiben, speichern und starten
-- ✅ Komplett offline nutzbar (keine Server, kein Framework)
-- ✅ HTML- & JS-Bausteine per Klick einfügen
-- ✅ Drag & Drop von .html-Dateien
-- ✅ Export als Master-HTML-Datei
-- ✅ Beispieltools inklusive
-- ✅ Optional: GPT-Code-Generator via OpenAI API-Key
+## ✨ Merkmale
 
-## 🚀 Verwendung
+- Programmliste im Fokus
+- Kopfzeile und Extras ausblendbar
+- Keine externe Ressource notwendig
+- Klar, schlicht, schnell
 
-1. Öffne `toolbox_final.html` in deinem Browser (z. B. per Doppelklick)
-2. Erstelle ein neues Tool oder füge HTML-Code ein
-3. Klicke auf „Vorschau anzeigen“ und dann auf „Tool speichern“
-4. Exportiere deine Tools jederzeit in eine neue Datei
+## ⚖️ Lizenz & Haftung
 
-## 🤖 GPT-Unterstützung (optional)
+Dieses Projekt steht unter **Public Domain / CC0 1.0**:  
+Du darfst alles damit machen – kopieren, verändern, weitergeben, auch kommerziell.  
+Es gibt **keine Garantie oder Gewährleistung** – Nutzung auf eigene Verantwortung.
 
-Wenn du einen [OpenAI API-Key](https://platform.openai.com/account/api-keys) besitzt,  
-kannst du direkt GPT-gestützte Tool-Ideen in HTML umwandeln lassen.
-
-## 🧠 Herkunft
-
-Idee & Konzept von `tool-box-gpt`, umgesetzt mit Hilfe von ChatGPT.  
-Das Projekt entstand aus dem Wunsch, mit maximaler Einfachheit ein mächtiges Werkzeug zu schaffen.
-
-## 📝 Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz. Du darfst es frei verwenden, verändern und weitergeben.
+> Diese Toolbox ist nur eine Idee. Sie wird ohne Anspruch auf Fehlerfreiheit oder Vollständigkeit bereitgestellt. Verwende sie, wie du möchtest – aber auf eigenes Risiko.
